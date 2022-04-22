@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "reg",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yhkaplan/Reg.git",
+      "state" : {
+        "revision" : "c8f1f51bc088708b3b3ecf04523b5bedd6914222",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "sweetcardscanner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/aaronLab/SweetCardScanner.git",
+      "state" : {
+        "revision" : "e57da0734673f0d6ef22c9a19fe683a2a2f83b18",
+        "version" : "0.1.3"
+      }
+    }
+  ],
+  "version" : 2
+}
